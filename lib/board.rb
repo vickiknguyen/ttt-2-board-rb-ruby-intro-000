@@ -1,3 +1,1 @@
-row = ["0", "1", "2"]
-
-row [1] = "X"
+board = get_variable_from_file
